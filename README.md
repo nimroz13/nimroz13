@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>🛠️ I’m currently working on<br><br>Full-stack applications using Java, Spring Boot, React, and scalable backend services.<br><br>🌱 I’m currently learning<br><br>Deployment, cloud infrastructure, and microservices architecture.<br><br>🎯 My Focus<br><br>Writing clean, reliable code that actually improves the user’s experience.<br><br>⚡ Fun fact<br><br>I grow plants and debug code with the same patience.
+# 💫 About Me:<br>🛠️ I’m currently working on<br><br>Full-stack applications using Java, Spring Boot, React, and scalable backend services.<br><br>🌱 I’m currently learning<br><br>Deployment, cloud infrastructure, and microservices architecture.<br><br>🎯 My Focus<br><br>Writing clean, reliable code that actually improves the user’s experience.<br><br>⚡ Fun fact<br><br>I grow plants and debug code with the same patience.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naushaba-imroz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naushabaimroz13@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naushaba.imroz)
@@ -13,9 +12,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nimroz13&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nimroz13&limit=5&theme=dark&combine_all_yearly_contributions=true)
